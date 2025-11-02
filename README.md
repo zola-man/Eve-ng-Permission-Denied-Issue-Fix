@@ -14,3 +14,8 @@ and get
 
 ```bash
 bash: /opt/unetlab/wrappers/unl_wrapper: Permission denied
+
+```
+it means your script doesn’t have the proper execution permission.
+
+check out the fix procedure file.
