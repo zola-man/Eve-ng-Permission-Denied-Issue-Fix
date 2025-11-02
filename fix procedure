@@ -1,6 +1,5 @@
 ## Check if the file is executable
 
-
 ls -l /opt/unetlab/wrappers/unl_wrapper
 
 You should see something like:
